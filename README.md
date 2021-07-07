@@ -1,6 +1,6 @@
 # MyCrypto
 
-This is a simple cryptography project to encrypt and decrypt the given input data based on our selected mode and produces a cipher text for any plain text using Python
+This is a simple cryptography project to encrypt and decrypt the given input data based on our selected mode and produces a cipher text for any plain text using Python. It is a simple shift cipher with key = 1
 
 𝐂𝐑𝐘𝐏𝐓𝐎𝐆𝐑𝐀𝐏𝐇𝐘 : 
 Cryptography is a technique of securing information and communications and transforming it into a new form through the use of codes so that only those person for whom the information is intended can understand it and process it.  
